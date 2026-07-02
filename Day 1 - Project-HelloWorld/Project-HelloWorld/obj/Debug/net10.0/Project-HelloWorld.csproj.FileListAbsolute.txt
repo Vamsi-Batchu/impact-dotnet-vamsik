@@ -1,0 +1,14 @@
+C:\Users\vamsikrishna.batchu\source\repos\Project-HelloWorld\Project-HelloWorld\bin\Debug\net10.0\Project-HelloWorld.exe
+C:\Users\vamsikrishna.batchu\source\repos\Project-HelloWorld\Project-HelloWorld\bin\Debug\net10.0\Project-HelloWorld.deps.json
+C:\Users\vamsikrishna.batchu\source\repos\Project-HelloWorld\Project-HelloWorld\bin\Debug\net10.0\Project-HelloWorld.runtimeconfig.json
+C:\Users\vamsikrishna.batchu\source\repos\Project-HelloWorld\Project-HelloWorld\bin\Debug\net10.0\Project-HelloWorld.dll
+C:\Users\vamsikrishna.batchu\source\repos\Project-HelloWorld\Project-HelloWorld\bin\Debug\net10.0\Project-HelloWorld.pdb
+C:\Users\vamsikrishna.batchu\source\repos\Project-HelloWorld\Project-HelloWorld\obj\Debug\net10.0\Project-HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vamsikrishna.batchu\source\repos\Project-HelloWorld\Project-HelloWorld\obj\Debug\net10.0\Project-HelloWorld.AssemblyInfoInputs.cache
+C:\Users\vamsikrishna.batchu\source\repos\Project-HelloWorld\Project-HelloWorld\obj\Debug\net10.0\Project-HelloWorld.AssemblyInfo.cs
+C:\Users\vamsikrishna.batchu\source\repos\Project-HelloWorld\Project-HelloWorld\obj\Debug\net10.0\Project-HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\vamsikrishna.batchu\source\repos\Project-HelloWorld\Project-HelloWorld\obj\Debug\net10.0\Project-HelloWorld.dll
+C:\Users\vamsikrishna.batchu\source\repos\Project-HelloWorld\Project-HelloWorld\obj\Debug\net10.0\refint\Project-HelloWorld.dll
+C:\Users\vamsikrishna.batchu\source\repos\Project-HelloWorld\Project-HelloWorld\obj\Debug\net10.0\Project-HelloWorld.pdb
+C:\Users\vamsikrishna.batchu\source\repos\Project-HelloWorld\Project-HelloWorld\obj\Debug\net10.0\Project-HelloWorld.genruntimeconfig.cache
+C:\Users\vamsikrishna.batchu\source\repos\Project-HelloWorld\Project-HelloWorld\obj\Debug\net10.0\ref\Project-HelloWorld.dll
