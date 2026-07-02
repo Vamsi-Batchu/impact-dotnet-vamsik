@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "BzoJkJjZhhg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vamsikrishna.batchu\\Desktop\\impact-dotnet-vamsi\\MiniQ1\\MiniQ1\\MiniQ1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vamsikrishna.batchu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.28\\microsoft.windowsdesktop.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\vamsikrishna.batchu\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.28\\microsoft.netcore.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\vamsikrishna.batchu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.28\\microsoft.aspnetcore.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\vamsikrishna.batchu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.28\\microsoft.netcore.app.host.win-x64.8.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\vamsikrishna.batchu\Desktop\impact-dotnet-vamsi\MiniQ1\MiniQ1\bin\Debug\net8.0\MiniQ1.exe
+C:\Users\vamsikrishna.batchu\Desktop\impact-dotnet-vamsi\MiniQ1\MiniQ1\bin\Debug\net8.0\MiniQ1.deps.json
+C:\Users\vamsikrishna.batchu\Desktop\impact-dotnet-vamsi\MiniQ1\MiniQ1\bin\Debug\net8.0\MiniQ1.runtimeconfig.json
+C:\Users\vamsikrishna.batchu\Desktop\impact-dotnet-vamsi\MiniQ1\MiniQ1\bin\Debug\net8.0\MiniQ1.dll
+C:\Users\vamsikrishna.batchu\Desktop\impact-dotnet-vamsi\MiniQ1\MiniQ1\bin\Debug\net8.0\MiniQ1.pdb
+C:\Users\vamsikrishna.batchu\Desktop\impact-dotnet-vamsi\MiniQ1\MiniQ1\obj\Debug\net8.0\MiniQ1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vamsikrishna.batchu\Desktop\impact-dotnet-vamsi\MiniQ1\MiniQ1\obj\Debug\net8.0\MiniQ1.AssemblyInfoInputs.cache
+C:\Users\vamsikrishna.batchu\Desktop\impact-dotnet-vamsi\MiniQ1\MiniQ1\obj\Debug\net8.0\MiniQ1.AssemblyInfo.cs
+C:\Users\vamsikrishna.batchu\Desktop\impact-dotnet-vamsi\MiniQ1\MiniQ1\obj\Debug\net8.0\MiniQ1.csproj.CoreCompileInputs.cache
+C:\Users\vamsikrishna.batchu\Desktop\impact-dotnet-vamsi\MiniQ1\MiniQ1\obj\Debug\net8.0\MiniQ1.dll
+C:\Users\vamsikrishna.batchu\Desktop\impact-dotnet-vamsi\MiniQ1\MiniQ1\obj\Debug\net8.0\refint\MiniQ1.dll
+C:\Users\vamsikrishna.batchu\Desktop\impact-dotnet-vamsi\MiniQ1\MiniQ1\obj\Debug\net8.0\MiniQ1.pdb
+C:\Users\vamsikrishna.batchu\Desktop\impact-dotnet-vamsi\MiniQ1\MiniQ1\obj\Debug\net8.0\MiniQ1.genruntimeconfig.cache
+C:\Users\vamsikrishna.batchu\Desktop\impact-dotnet-vamsi\MiniQ1\MiniQ1\obj\Debug\net8.0\ref\MiniQ1.dll
